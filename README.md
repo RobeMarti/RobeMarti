@@ -9,10 +9,10 @@
 
 🎯 What I'm Up To
 
--🔧 Building automation scripts for IT infrastructure
--🎮 Developing games with Godot Engine
--📚 Learning new technologies and best practices
--🤝 Open to collaboration on interesting projects
+🔧 Building automation scripts for IT infrastructure<br>
+🎮 Developing games with Godot Engine<br>
+📚 Learning new technologies and best practices<br>
+🤝 Open to collaboration on interesting projects<br>
 
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
