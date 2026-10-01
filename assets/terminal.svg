@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="462" viewBox="0 0 880 462" role="img" aria-labelledby="title desc">
+<title id="title">robemarti@ubuntu: neofetch</title>
+<desc id="desc">Ubuntu terminal running neofetch. Role: System Administrator. Passions: programming and cybersecurity. Focus: full stack web development with HTML, CSS, JavaScript, TypeScript and React. Also Python, C++, C#, PowerShell and Bash. Hobbies: game dev with Godot and anime.</desc>
+<defs>
+  <linearGradient id="disc" gradientUnits="userSpaceOnUse" x1="0" y1="104" x2="0" y2="368">
+    <stop offset="0" stop-color="#FF8A4C"/><stop offset=".55" stop-color="#E95420"/><stop offset="1" stop-color="#C2366B"/>
+  </linearGradient>
+  <filter id="shadow" x="-5%" y="-5%" width="110%" height="120%"><feDropShadow dx="0" dy="10" stdDeviation="11" flood-color="#000" flood-opacity=".38"/></filter>
+  <clipPath id="clip"><rect x="20" y="14" width="840" height="414" rx="12"/></clipPath>
+</defs>
+<style>
+  .m{font-family:'JetBrains Mono','Cascadia Mono','SF Mono',Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono','Ubuntu Mono',monospace;font-size:14px;text-anchor:middle}
+  .flow{font-family:'JetBrains Mono','Cascadia Mono','SF Mono',Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono','Ubuntu Mono',monospace;font-size:14px}
+  .lg{font-family:'JetBrains Mono','Cascadia Mono','SF Mono',Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono','Ubuntu Mono',monospace;font-size:11px;font-weight:700;text-anchor:middle}
+  .ui{font-family:Ubuntu,'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif}
+  .u{fill:#8AE234;font-weight:700}.p{fill:#729FCF;font-weight:700}.w{fill:#EEEEEC}
+  .k{fill:#E95420;font-weight:700}.v{fill:#EEEEEC}.dim{fill:#AD7FA8}
+  @keyframes in{from{opacity:0;transform:translateY(5px)}to{opacity:1;transform:none}}
+  @keyframes hide{from,to{opacity:0}}
+  @keyframes gone{to{opacity:0}}
+  @keyframes type{from{transform:translateX(0)}to{transform:translateX(67.2px)}}
+  @keyframes blink{0%,50%{opacity:1}50.01%,100%{opacity:0}}
+  .o{animation:in .35s ease-out backwards}
+  .c{animation:hide 1ms backwards}
+  .cur1{animation:type 0.64s steps(8,end) 0.6s both,gone 1ms 1.45s forwards}
+  .blink{animation:blink 1.1s infinite 2.65s}
+  @media (prefers-reduced-motion:reduce){*{animation:none!important}.cur1{display:none}}
+</style>
+<g filter="url(#shadow)"><rect x="20" y="14" width="840" height="414" rx="12" fill="#300A24"/></g>
+<g clip-path="url(#clip)">
+  <rect x="20" y="14" width="840" height="40" fill="#2B2B2B"/>
+  <rect x="20" y="53" width="840" height="1" fill="#000" opacity=".45"/>
+</g>
+<rect x="20.5" y="14.5" width="839" height="413" rx="12" fill="none" stroke="#fff" stroke-opacity=".08"/>
+<text class="ui" x="440" y="39" text-anchor="middle" font-size="13" font-weight="700" fill="#F2F2F2">robemarti@ubuntu: ~</text>
+<g stroke="#EDEDED" stroke-width="1.4" stroke-linecap="round" fill="none">
+  <circle cx="782" cy="34" r="9" fill="#444" stroke="none"/><path d="M778.5 34.5h7"/>
+  <circle cx="810" cy="34" r="9" fill="#444" stroke="none"/><rect x="806.5" y="30.5" width="7" height="7" rx="1"/>
+  <circle cx="838" cy="34" r="9" fill="#E95420" stroke="none"/><path d="M834.8 30.8l6.4 6.4M841.2 30.8l-6.4 6.4" stroke="#fff"/>
+</g>
+<g fill="#9A9A9A"><rect x="36" y="28" width="14" height="12" rx="2" fill="none" stroke="#9A9A9A" stroke-width="1.4"/><path d="M39 32l3 2-3 2" fill="none" stroke="#9A9A9A" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text class="m"><tspan y="84" class="u" x="48.2 56.6 65 73.4 81.8 90.2 98.6 107 115.4 123.8 132.2 140.6 149 157.4 165.8 174.2">robemarti@ubuntu</tspan><tspan y="84" class="w" x="182.6">:</tspan><tspan y="84" class="p" x="191">~</tspan><tspan y="84" class="w" x="199.4">$</tspan></text>
+<text class="m w c" style="animation-delay:0.68s" x="216.2" y="84">n</text><text class="m w c" style="animation-delay:0.76s" x="224.6" y="84">e</text><text class="m w c" style="animation-delay:0.84s" x="233" y="84">o</text><text class="m w c" style="animation-delay:0.92s" x="241.4" y="84">f</text><text class="m w c" style="animation-delay:1s" x="249.8" y="84">e</text><text class="m w c" style="animation-delay:1.08s" x="258.2" y="84">t</text><text class="m w c" style="animation-delay:1.16s" x="266.6" y="84">c</text><text class="m w c" style="animation-delay:1.24s" x="275" y="84">h</text>
+<g class="cur1"><rect x="212.5" y="71" width="7.4" height="17" fill="#EEEEEC" opacity=".9"/></g>
+<g class="o" style="animation-delay:1.5s"><text class="lg" fill="url(#disc)" x="133.1 139.7 146.3 152.9 159.5 166.1 172.7 179.3 185.9 192.5 199.1 205.7 212.3 218.9" y="114">-//++++++++//-</text></g>
+<g class="o" style="animation-delay:1.52s"><text class="lg" fill="url(#disc)" x="106.7 113.3 119.9 126.5 133.1 139.7 146.3 152.9 159.5 166.1 172.7 179.3 185.9 192.5 199.1 205.7 212.3 218.9 225.5 232.1 238.7 245.3" y="127.2">-/osssssssssssssssso/-</text></g>
+<g class="o" style="animation-delay:1.54s"><text class="lg" fill="url(#disc)" x="86.9 93.5 100.1 106.7 113.3 119.9 126.5 133.1 139.7 146.3 152.9 159.5 166.1 172.7 179.3 185.9 192.5 199.1 245.3 251.9 258.5 265.1" y="140.4">./osssssssssssssssso/.</text><text class="lg" fill="#FFFFFF" x="205.7 212.3 218.9 225.5 232.1 238.7" y="140.4">mMMMMN</text></g>
+<g class="o" style="animation-delay:1.55s"><text class="lg" fill="url(#disc)" x="80.3 86.9 93.5 100.1 106.7 113.3 119.9 126.5 133.1 139.7 146.3 152.9 159.5 166.1 172.7 179.3 185.9 192.5 251.9 258.5 265.1 271.7" y="153.6">/ssssssssssssssssssss/</text><text class="lg" fill="#FFFFFF" x="199.1 205.7 212.3 218.9 225.5 232.1 238.7 245.3" y="153.6">NMMMMMMM</text></g>
+<g class="o" style="animation-delay:1.57s"><text class="lg" fill="url(#disc)" x="67.1 73.7 80.3 86.9 93.5 100.1 106.7 113.3 119.9 126.5 133.1 192.5 251.9 258.5 265.1 271.7 278.3 284.9" y="166.8">-osssssssssssssso-</text><text class="lg" fill="#FFFFFF" x="139.7 146.3 152.9 159.5 166.1 172.7 179.3 185.9 199.1 205.7 212.3 218.9 225.5 232.1 238.7 245.3" y="166.8">hNMMMMMMmMMMMMMN</text></g>
+<g class="o" style="animation-delay:1.59s"><text class="lg" fill="url(#disc)" x="60.5 67.1 73.7 80.3 86.9 93.5 100.1 106.7 113.3 192.5 199.1 245.3 251.9 258.5 265.1 271.7 278.3 284.9 291.5" y="180">-ossssssssssssssso-</text><text class="lg" fill="#FFFFFF" x="119.9 126.5 133.1 139.7 146.3 152.9 159.5 166.1 172.7 179.3 185.9 205.7 212.3 218.9 225.5 232.1 238.7" y="180">hNMMMMMMMMMyNNNNh</text></g>
+<g class="o" style="animation-delay:1.61s"><text class="lg" fill="url(#disc)" x="53.9 60.5 67.1 73.7 80.3 86.9 93.5 100.1 106.7 192.5 199.1 205.7 212.3 218.9 245.3 251.9 258.5 265.1 271.7 278.3 284.9 291.5 298.1" y="193.2">-ossssssssssssssssssso-</text><text class="lg" fill="#FFFFFF" x="113.3 119.9 126.5 133.1 139.7 146.3 152.9 159.5 166.1 172.7 179.3 185.9 225.5 232.1 238.7" y="193.2">NMMMMMMMNNNhhNN</text></g>
+<g class="o" style="animation-delay:1.63s"><text class="lg" fill="url(#disc)" x="53.9 60.5 67.1 73.7 80.3 86.9 93.5 100.1 152.9 159.5 166.1 172.7 179.3 185.9 192.5 199.1 205.7 251.9 258.5 265.1 271.7 278.3 284.9 291.5 298.1" y="206.4">ossssssssssssssssssssssso</text><text class="lg" fill="#FFFFFF" x="106.7 113.3 119.9 126.5 133.1 139.7 146.3 212.3 218.9 225.5 232.1 238.7 245.3" y="206.4">MMMMMMmhMMMMM</text></g>
+<g class="o" style="animation-delay:1.64s"><text class="lg" fill="url(#disc)" x="47.3 53.9 60.5 139.7 146.3 152.9 159.5 166.1 172.7 179.3 185.9 192.5 199.1 205.7 212.3 258.5 265.1 271.7 278.3 284.9 291.5 298.1 304.7" y="219.6">-sssssssssssssssssssss-</text><text class="lg" fill="#FFFFFF" x="67.1 73.7 80.3 86.9 93.5 100.1 106.7 113.3 119.9 126.5 133.1 218.9 225.5 232.1 238.7 245.3 251.9" y="219.6">mMMMNhyhmNMMMMMMN</text></g>
+<g class="o" style="animation-delay:1.66s"><text class="lg" fill="url(#disc)" x="47.3 53.9 113.3 119.9 126.5 133.1 139.7 146.3 152.9 159.5 166.1 172.7 179.3 185.9 192.5 199.1 205.7 212.3 258.5 265.1 271.7 278.3 284.9 291.5 298.1 304.7" y="232.8">/ssssssssssssssssssssssss/</text><text class="lg" fill="#FFFFFF" x="60.5 67.1 73.7 80.3 86.9 93.5 100.1 106.7 218.9 225.5 232.1 238.7 245.3 251.9" y="232.8">MMMMMMMmhMMMMM</text></g>
+<g class="o" style="animation-delay:1.68s"><text class="lg" fill="url(#disc)" x="47.3 53.9 113.3 119.9 126.5 133.1 139.7 146.3 152.9 159.5 166.1 172.7 179.3 185.9 192.5 199.1 205.7 212.3 258.5 265.1 271.7 278.3 284.9 291.5 298.1 304.7" y="246">/ssssssssssssssssssssssss/</text><text class="lg" fill="#FFFFFF" x="60.5 67.1 73.7 80.3 86.9 93.5 100.1 106.7 218.9 225.5 232.1 238.7 245.3 251.9" y="246">MMMMMMMmhMMMMM</text></g>
+<g class="o" style="animation-delay:1.7s"><text class="lg" fill="url(#disc)" x="47.3 53.9 60.5 139.7 146.3 152.9 159.5 166.1 172.7 179.3 185.9 192.5 199.1 205.7 212.3 258.5 265.1 271.7 278.3 284.9 291.5 298.1 304.7" y="259.2">-sssssssssssssssssssss-</text><text class="lg" fill="#FFFFFF" x="67.1 73.7 80.3 86.9 93.5 100.1 106.7 113.3 119.9 126.5 133.1 218.9 225.5 232.1 238.7 245.3 251.9" y="259.2">mMMMNhyhmNMMMMMMN</text></g>
+<g class="o" style="animation-delay:1.72s"><text class="lg" fill="url(#disc)" x="53.9 60.5 67.1 73.7 80.3 86.9 93.5 100.1 152.9 159.5 166.1 172.7 179.3 185.9 192.5 199.1 205.7 251.9 258.5 265.1 271.7 278.3 284.9 291.5 298.1" y="272.4">ossssssssssssssssssssssso</text><text class="lg" fill="#FFFFFF" x="106.7 113.3 119.9 126.5 133.1 139.7 146.3 212.3 218.9 225.5 232.1 238.7 245.3" y="272.4">MMMMMMmhMMMMM</text></g>
+<g class="o" style="animation-delay:1.73s"><text class="lg" fill="url(#disc)" x="53.9 60.5 67.1 73.7 80.3 86.9 93.5 100.1 106.7 192.5 199.1 205.7 212.3 218.9 245.3 251.9 258.5 265.1 271.7 278.3 284.9 291.5 298.1" y="285.6">-ossssssssssssssssssso-</text><text class="lg" fill="#FFFFFF" x="113.3 119.9 126.5 133.1 139.7 146.3 152.9 159.5 166.1 172.7 179.3 185.9 225.5 232.1 238.7" y="285.6">NMMMMMMMNNNhhNN</text></g>
+<g class="o" style="animation-delay:1.75s"><text class="lg" fill="url(#disc)" x="60.5 67.1 73.7 80.3 86.9 93.5 100.1 106.7 113.3 192.5 199.1 245.3 251.9 258.5 265.1 271.7 278.3 284.9 291.5" y="298.8">-ossssssssssssssso-</text><text class="lg" fill="#FFFFFF" x="119.9 126.5 133.1 139.7 146.3 152.9 159.5 166.1 172.7 179.3 185.9 205.7 212.3 218.9 225.5 232.1 238.7" y="298.8">hNMMMMMMMMMyNNNNh</text></g>
+<g class="o" style="animation-delay:1.77s"><text class="lg" fill="url(#disc)" x="67.1 73.7 80.3 86.9 93.5 100.1 106.7 113.3 119.9 126.5 133.1 192.5 251.9 258.5 265.1 271.7 278.3 284.9" y="312">-osssssssssssssso-</text><text class="lg" fill="#FFFFFF" x="139.7 146.3 152.9 159.5 166.1 172.7 179.3 185.9 199.1 205.7 212.3 218.9 225.5 232.1 238.7 245.3" y="312">hNMMMMMMmMMMMMMN</text></g>
+<g class="o" style="animation-delay:1.79s"><text class="lg" fill="url(#disc)" x="80.3 86.9 93.5 100.1 106.7 113.3 119.9 126.5 133.1 139.7 146.3 152.9 159.5 166.1 172.7 179.3 185.9 192.5 251.9 258.5 265.1 271.7" y="325.2">/ssssssssssssssssssss/</text><text class="lg" fill="#FFFFFF" x="199.1 205.7 212.3 218.9 225.5 232.1 238.7 245.3" y="325.2">NMMMMMMM</text></g>
+<g class="o" style="animation-delay:1.81s"><text class="lg" fill="url(#disc)" x="86.9 93.5 100.1 106.7 113.3 119.9 126.5 133.1 139.7 146.3 152.9 159.5 166.1 172.7 179.3 185.9 192.5 199.1 245.3 251.9 258.5 265.1" y="338.4">./osssssssssssssssso/.</text><text class="lg" fill="#FFFFFF" x="205.7 212.3 218.9 225.5 232.1 238.7" y="338.4">mMMMMN</text></g>
+<g class="o" style="animation-delay:1.82s"><text class="lg" fill="url(#disc)" x="106.7 113.3 119.9 126.5 133.1 139.7 146.3 152.9 159.5 166.1 172.7 179.3 185.9 192.5 199.1 205.7 212.3 218.9 225.5 232.1 238.7 245.3" y="351.6">-/osssssssssssssssso/-</text></g>
+<g class="o" style="animation-delay:1.84s"><text class="lg" fill="url(#disc)" x="133.1 139.7 146.3 152.9 159.5 166.1 172.7 179.3 185.9 192.5 199.1 205.7 212.3 218.9" y="364.8">-//++++++++//-</text></g>
+<text class="flow o" style="animation-delay:1.5s" x="352" y="118"><tspan class="k">robemarti</tspan><tspan class="w">@</tspan><tspan class="k">ubuntu</tspan></text>
+<text class="flow o w" style="animation-delay:1.54s" x="352" y="139">----------------</text>
+<g class="o" style="animation-delay:1.59s"><text class="flow k" x="352" y="160">OS:</text><text class="flow v" x="448" y="160">Ubuntu (favorite) · Windows</text></g>
+<g class="o" style="animation-delay:1.64s"><text class="flow k" x="352" y="181">Role:</text><text class="flow v" x="448" y="181">System Administrator</text></g>
+<g class="o" style="animation-delay:1.68s"><text class="flow k" x="352" y="202">Passions:</text><text class="flow v" x="448" y="202">Programming · Cybersecurity</text></g>
+<g class="o" style="animation-delay:1.73s"><text class="flow k" x="352" y="223">Focus:</text><text class="flow v" x="448" y="223">Full Stack Web Development</text></g>
+<g class="o" style="animation-delay:1.77s"><text class="flow k" x="352" y="244">Web:</text><text class="flow v" x="448" y="244">HTML · CSS · JavaScript · TypeScript · React</text></g>
+<g class="o" style="animation-delay:1.81s"><text class="flow k" x="352" y="265">Langs:</text><text class="flow v" x="448" y="265">Python · C++ · C#</text></g>
+<g class="o" style="animation-delay:1.86s"><text class="flow k" x="352" y="286">Scripts:</text><text class="flow v" x="448" y="286">PowerShell · Bash</text></g>
+<g class="o" style="animation-delay:1.91s"><text class="flow k" x="352" y="307">Hobbies:</text><text class="flow v" x="448" y="307">Game dev (Godot) · Anime</text></g>
+<g class="o" style="animation-delay:1.95s"><text class="flow k" x="352" y="328">Uptime:</text><text class="flow v" x="448" y="328">always learning</text></g>
+<g class="o" style="animation-delay:2s"><rect x="352" y="355" width="25.2" height="13" fill="#2E3436"/><rect x="377.2" y="355" width="25.2" height="13" fill="#CC0000"/><rect x="402.4" y="355" width="25.2" height="13" fill="#4E9A06"/><rect x="427.6" y="355" width="25.2" height="13" fill="#C4A000"/><rect x="452.8" y="355" width="25.2" height="13" fill="#3465A4"/><rect x="478" y="355" width="25.2" height="13" fill="#75507B"/><rect x="503.2" y="355" width="25.2" height="13" fill="#06989A"/><rect x="528.4" y="355" width="25.2" height="13" fill="#D3D7CF"/><rect x="352" y="368" width="25.2" height="13" fill="#555753"/><rect x="377.2" y="368" width="25.2" height="13" fill="#EF2929"/><rect x="402.4" y="368" width="25.2" height="13" fill="#8AE234"/><rect x="427.6" y="368" width="25.2" height="13" fill="#FCE94F"/><rect x="452.8" y="368" width="25.2" height="13" fill="#729FCF"/><rect x="478" y="368" width="25.2" height="13" fill="#AD7FA8"/><rect x="503.2" y="368" width="25.2" height="13" fill="#34E2E2"/><rect x="528.4" y="368" width="25.2" height="13" fill="#EEEEEC"/></g>
+<g class="o" style="animation-delay:2.25s"><text class="m"><tspan y="404" class="u" x="48.2 56.6 65 73.4 81.8 90.2 98.6 107 115.4 123.8 132.2 140.6 149 157.4 165.8 174.2">robemarti@ubuntu</tspan><tspan y="404" class="w" x="182.6">:</tspan><tspan y="404" class="p" x="191">~</tspan><tspan y="404" class="w" x="199.4">$</tspan></text><rect class="blink" x="212.5" y="391" width="7.4" height="17" fill="#EEEEEC" opacity=".9"/></g>
+</svg>
